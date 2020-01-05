@@ -1,1 +1,0 @@
-# Environment-Enlightment-Stop-Global-Warming
