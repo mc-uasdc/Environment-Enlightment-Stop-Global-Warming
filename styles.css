@@ -1,0 +1,35 @@
+h1 {
+  color: gold;
+  text-align: center;
+}
+marquee {
+background-color: green;
+background
+: red;
+font-family: arial black;
+}
+img {
+    width: 400px;
+    border: 20px dotted yellow;}
+    body {
+        background: green;
+        font-family: arial, sans-serif;
+        text-align: center;
+}
+button:hover {
+    color: brown;
+        background: gold;
+        border: 5px solid lime;
+        
+}
+strong {
+    color: aqua;
+    background-color: darkblue;
+    text-align: center;
+}
+p {
+    text-align: center;
+}
+a {
+    text-align: center;
+}
